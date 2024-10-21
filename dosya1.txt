@@ -1,4 +1,7 @@
 #test dosyası
 
-  echo "test"
+
   echo "test2"
+
+	gereksizler aldırıldı
+
