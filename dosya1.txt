@@ -1,3 +1,4 @@
 #test dosyası
 
   echo "test"
+  echo "test2"
